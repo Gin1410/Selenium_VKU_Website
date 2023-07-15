@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/Selenium/VKU_Web">
+        <classes>
+            <class name="tests.HomePageTest">
+                <methods>
+                    <include name="HP_case1"/>
+                    <include name="HP_case2"/>
+                    <include name="HP_case3"/>
+                    <include name="HP_case4"/>
+                    <include name="HP_case5"/>
+                    <include name="HP_case6"/>
+                    <include name="HP_case7"/>
+                    <include name="HP_case8"/>
+                    <include name="HP_case9"/>
+                    <include name="HP_case10"/>
+                    <include name="HP_case11"/>
+                    <include name="HP_case12"/>
+                    <include name="HP_case13"/>
+                    <include name="HP_case14"/>
+                    <include name="HP_case15"/>
+                    <include name="HP_case16"/>
+                    <include name="HP_case17"/>
+                    <include name="HP_case18"/>
+                    <include name="HP_case19"/>
+                    <include name="HP_case20"/>
+                    <include name="HP_case21"/>
+                    <include name="HP_case22"/>
+                    <include name="HP_case23"/>
+                    <include name="HP_case24"/>
+                    <include name="HP_case25"/>
+                    <include name="HP_case26"/>
+                    <include name="HP_case27"/>
+                    <include name="HP_case28"/>
+                    <include name="HP_case29"/>
+                    <include name="HP_case30"/>
+                    <include name="HP_case31"/>
+                    <include name="HP_case32"/>
+                    <include name="HP_case33"/>
+                    <include name="HP_case34"/>
+                    <include name="HP_case35"/>
+                    <include name="HP_case36"/>
+                    <include name="HP_case37"/>
+                    <include name="HP_case38"/>
+                    <include name="HP_case39"/>
+                    <include name="HP_case40"/>
+                    <include name="HP_case41"/>
+                    <include name="HP_case42"/>
+                    <include name="HP_case43"/>
+                    <include name="HP_case44"/>
+                    <include name="HP_case45"/>
+                    <include name="HP_case46"/>
+                    <include name="HP_case47"/>
+                    <include name="HP_case48"/>
+                    <include name="HP_case49"/>
+                    <include name="HP_case50"/>
+                    <include name="HP_case51"/>
+                    <include name="HP_case52"/>
+                    <include name="HP_case53"/>
+                    <include name="HP_case54"/>
+                    <include name="HP_case55"/>
+                    <include name="HP_case56"/>
+                    <include name="HP_case57"/>
+                    <include name="HP_case58"/>
+                    <include name="HP_case59"/>
+                    <include name="HP_case60"/>
+                    <include name="HP_case61"/>
+                    <include name="HP_case62"/>
+                    <include name="HP_case63"/>
+                    <include name="HP_case64"/>
+                    <include name="HP_case65"/>
+                    <include name="HP_case66"/>
+                    <include name="HP_case67"/>
+                    <include name="HP_case68"/>
+                    <include name="HP_case69"/>
+                    <include name="HP_case70"/>
+                    <include name="HP_case71"/>
+                    <include name="HP_case72"/>
+                    <include name="HP_case73"/>
+                    <include name="HP_case74"/>
+                    <include name="HP_case75"/>
+                    <include name="HP_case76"/>
+                    <include name="HP_case77"/>
+                    <include name="HP_case78"/>
+                    <include name="HP_case79"/>
+                    <include name="HP_case80"/>
+                    <include name="HP_case81"/>
+                    <include name="HP_case82"/>
+                    <include name="HP_case83"/>
+                    <include name="HP_case84"/>
+                    <include name="HP_case85"/>
+                    <include name="HP_case86"/>
+                    <include name="HP_case87"/>
+                    <include name="HP_case88"/>
+                    <include name="HP_case89"/>
+                    <include name="HP_case90"/>
+                    <include name="HP_case91"/>
+                    <include name="HP_case92"/>
+                    <include name="HP_case93"/>
+                    <include name="HP_case94"/>
+                    <include name="HP_case95"/>
+                    <include name="HP_case96"/>
+                    <include name="HP_case97"/>
+                    <include name="HP_case98"/>
+                    <include name="HP_case99"/>
+                    <include name="HP_case100"/>
+                    <include name="HP_case101"/>
+                    <include name="HP_case102"/>
+                    <include name="HP_case103"/>
+                    <include name="HP_case104"/>
+                    <include name="HP_case105"/>
+                    <include name="HP_case106"/>
+                    <include name="HP_case107"/>
+                    <include name="HP_case108"/>
+                </methods>
+            </class>
+            <class name="tests.SignInTest">
+                <methods>
+                    <include name="SignIn_case1"/>
+                    <include name="SignIn_case2"/>
+                    <include name="SignIn_case3"/>
+                    <include name="SignIn_case4"/>
+                    <include name="SignIn_case5"/>
+                    <include name="SignIn_case6"/>
+                    <include name="SignIn_case7"/>
+                    <include name="SignIn_case8"/>
+                    <include name="SignIn_case9"/>
+                    <include name="SignIn_case10"/>
+                    <include name="SignIn_case11"/>
+                    <include name="SignIn_case12"/>
+                    <include name="SignIn_case13"/>
+                    <include name="SignIn_case14"/>
+                    <include name="SignIn_case15"/>
+                    <include name="SignIn_case16"/>
+                    <include name="SignIn_case17"/>
+                    <include name="SignIn_case18"/>
+                    <include name="SignIn_case19"/>
+                    <include name="SignIn_case20"/>
+                    <include name="SignIn_case21"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
